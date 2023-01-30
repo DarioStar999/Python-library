@@ -11,3 +11,5 @@ discord.py
 os-sys
 pykeyboard
 PyAutoGUI
+subprocess.run
+sockets
